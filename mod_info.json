@@ -1,0 +1,10 @@
+{
+    "id": "powergrids",
+    "name": "Power.Grids",
+    "author": "SirHartley",
+    "version": "1.0.1",
+    "description": "Add electrical grids, electrical power plants and makes industries consume power to run.",
+    "gameVersion": "0.96a",
+    "jars":["jars/PowerGrids.jar"],
+    "modPlugin":"power.plugins.ModPlugin"
+}

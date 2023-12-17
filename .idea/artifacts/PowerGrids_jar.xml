@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PowerGrids:jar">
+    <output-path>$PROJECT_DIR$/jars/</output-path>
+    <root id="archive" name="PowerGrids.jar">
+      <element id="module-output" name="PowerGrids" />
+    </root>
+  </artifact>
+</component>
